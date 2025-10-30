@@ -1,0 +1,12 @@
+.navbar{
+    background-color: blueviolet;
+    color: white;
+}
+.nav-brand{
+    padding: 2px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.nav-logo{
+    font-size: 2rem;
+}
